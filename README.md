@@ -1,2 +1,0 @@
-# PythonKHR
-Python 
