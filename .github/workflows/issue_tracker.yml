@@ -9,7 +9,8 @@ on:
 
 jobs:
   issue_tracker:
-    runs-on: ubuntu-latest
+    #runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Print Issue Content
         run: |
